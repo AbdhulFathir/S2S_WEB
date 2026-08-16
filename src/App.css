@@ -1,0 +1,4 @@
+/* App.css — reset only, all design handled via Tailwind + index.css */
+* {
+  box-sizing: border-box;
+}
